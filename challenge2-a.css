@@ -1,0 +1,37 @@
+body{
+    background-color:burlywood;
+    display: flex;
+    justify-content: center;
+
+
+}
+#wrap{
+    background-color:white;
+    width:600px;
+    border-style: dotted;
+}
+ul{
+    list-style: none;
+}
+li{
+text-align: center
+;}
+li::first-letter{
+font-weight: bolder;
+font-size: 150%;
+}
+.copyright{
+    text-align: center
+
+}
+h1{
+    text-align: center;
+border-bottom:dotted ;
+margin: 0;
+}
+p{
+    margin-left: 20px;
+    margin-right: 20px;
+
+    text-align: justify;
+}

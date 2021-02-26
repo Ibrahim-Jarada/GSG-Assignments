@@ -1,0 +1,54 @@
+#nav ul{
+    list-style: none;
+}
+#content ul{
+    list-style: none;
+
+}
+#nav li{
+    display: inline;
+    padding-right: 20px;
+}
+body{
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: darkgreen;
+    }
+#header{
+    background-color: darkkhaki;
+padding:20px;
+    text-align: right;
+
+
+
+}
+#sidebar{
+    width: 150px;
+    background-color: darkkhaki;
+    float: right;
+    height: 420px;
+
+}
+#content{
+    text-align: center;
+    background-color: olivedrab;
+    width: 500px;
+    float: left;
+    height: 420px;
+
+}
+#nav{
+    background-color: lightgreen;
+padding: 5px;
+border-bottom: white dashed;
+
+}
+#wrap{
+    width: 650px;
+}
+
+*{
+    margin-top: 0;
+    margin-bottom: 0;
+
+}

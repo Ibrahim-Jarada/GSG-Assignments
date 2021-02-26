@@ -1,0 +1,47 @@
+.mock-box {
+    height: 45px;
+    width: 700px;
+    border: 5px solid black;
+   
+}
+.main-box{
+    width:700px;
+    height:550px;
+border: 5px solid black;
+border-top: 0px;
+}
+.left{
+    height: 100px;
+    width: 150px;
+    background-color:indianred;
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 40px;
+
+
+}
+.right{
+    height: 100px;
+    width: 400px;
+    background-color:cornflowerblue;
+    float: right;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 40px;
+
+
+}
+.row{
+    clear: both;
+}
+.center{
+    float: left;
+    height: 100px;
+    width: 640px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 40px;
+    background-color:darkgoldenrod;
+
+}

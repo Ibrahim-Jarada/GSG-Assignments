@@ -1,0 +1,40 @@
+body{
+    background-color: darkblue;
+margin-left: 25%;
+margin-right: 25%;
+
+}
+#wrap{
+  width:620px;
+
+}
+#nav{
+    float: left;
+    width: 150px;
+    padding: 5px;
+    height: 420px;
+    background-color:lightblue ;
+    text-align: left;
+
+}
+#content{
+    text-align: center;
+    padding: 5px;
+
+    width: 450px;
+    height: 420px;
+    float: right;
+    background-color:cornflowerblue;
+
+
+}
+.copyright {
+	text-align: center;
+}
+#content ul{
+    list-style: none;
+
+}
+
+
+

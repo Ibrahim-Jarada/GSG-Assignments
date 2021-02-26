@@ -1,0 +1,42 @@
+img{
+    width: auto;
+    height: 250px;
+    z-index: -1;
+}
+
+body{
+    background-color: #544F53 ;
+    font-family: 'Nunito Sans', sans-serif;
+}
+#box{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+#cities{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+*{
+    margin:0;
+    padding: 0;
+
+}
+div{
+    position: relative;
+}
+p{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color:#AB1F83  ;
+    color: white;
+    font-size: 24px;
+}
+h2::after{
+    content:"T6 | CONDUIT | INFRASTRUCTURE";
+    font-size: 16PX;
+
+}
