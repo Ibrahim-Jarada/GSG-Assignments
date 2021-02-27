@@ -1,7 +1,5 @@
-img{
-    width: auto;
+.images{
     height: 250px;
-    z-index: -1;
 }
 
 body{
@@ -24,10 +22,10 @@ body{
     padding: 0;
 
 }
-div{
+figure{
     position: relative;
 }
-p{
+.t{
     position: absolute;
     top: 0;
     left: 0;
@@ -35,8 +33,12 @@ p{
     color: white;
     font-size: 24px;
 }
-h2::after{
+figcaption::after{
     content:"T6 | CONDUIT | INFRASTRUCTURE";
-    font-size: 16PX;
+    font-size: 16px;
+
+}
+figcaption{
+    font-size: 24px;
 
 }
