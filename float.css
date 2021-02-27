@@ -15,9 +15,7 @@ border-top: 0px;
     width: 150px;
     background-color:indianred;
     float: left;
-    margin-top: 30px;
-    margin-left: 20px;
-    margin-right: 40px;
+    margin: 30px 40px 0 20px;
 
 
 }
@@ -26,9 +24,7 @@ border-top: 0px;
     width: 400px;
     background-color:cornflowerblue;
     float: right;
-    margin-top: 30px;
-    margin-left: 20px;
-    margin-right: 40px;
+    margin: 30px 40px 0 20px;
 
 
 }
@@ -39,9 +35,8 @@ border-top: 0px;
     float: left;
     height: 100px;
     width: 640px;
-    margin-top: 30px;
-    margin-left: 20px;
-    margin-right: 40px;
+    margin: 30px 40px 0 20px;
+
     background-color:darkgoldenrod;
 
 }
